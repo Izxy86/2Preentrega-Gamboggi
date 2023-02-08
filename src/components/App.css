@@ -1,0 +1,29 @@
+.cardProducto {
+    display: flex;
+    width: 18rem;
+    margin: 4px;
+    background-color: rgb(243, 236, 236);
+}
+
+.cardBody {
+    
+    margin-bottom: 3px;
+    text-align: center;
+}
+
+img {
+    margin-top: 30px;
+}
+
+.cardProductos {
+    min-height: 520px;
+    max-height: 520px;
+    margin:4px;
+    align-items: center;
+    justify-content: center;
+}
+
+.itemDetail {
+    max-width: 540px;
+    margin-top: 20px;
+}

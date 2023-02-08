@@ -1,0 +1,201 @@
+[
+    {
+        "id": 1,
+        "idCategoria":1,
+        "Categoria": "Procesadores",
+        "nombre": "I3",
+        "marca": "Intel",
+        "modelo": "Rocket Lake",
+        "precio": 60000,
+        "stock": 30,
+        "img": "intel_i3.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria":1,
+        "Categoria": "Procesadores",
+        "nombre": "I5",
+        "marca": "Intel",
+        "modelo": "Rocket Lake",
+        "precio": 150000,
+        "stock": 20,
+        "img": "intel_i5.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria":1,
+        "Categoria": "Procesadores",
+        "nombre": "I7",
+        "marca": "Intel",
+        "modelo": "Rocket Lake",
+        "precio": 170000,
+        "stock": 15,
+        "img": "intel_i7.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria":1,
+        "Categoria": "Procesadores",
+        "nombre": "I9",
+        "marca": "Intel",
+        "modelo": "Rocket Lake",
+        "precio": 180000,
+        "stock": 30,
+        "img": "intel_i9.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria":1,
+        "Categoria": "Procesadores",
+        "nombre": "Ryzen 3",
+        "marca": "AMD",
+        "modelo": "5000",
+        "precio": 64000,
+        "stock": 7,
+        "img": "ryzen_3.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria":1,
+        "Categoria": "Procesadores",
+        "nombre": "Ryzen 5",
+        "marca": "AMD",
+        "modelo": "5000",
+        "precio": 84000,
+        "stock": 20,
+        "img": "ryzen_5.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria":1,
+        "Categoria": "Procesadores",
+        "nombre": "Ryzen 7",
+        "marca": "AMD",
+        "modelo": "7000",
+        "precio": 105000,
+        "stock": 10,
+        "img": "ryzen_7.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria":1,
+        "Categoria": "Procesadores",
+        "nombre": "Ryzen 9",
+        "marca": "AMD",
+        "modelo": "7000",
+        "precio": 150000,
+        "stock": 30,
+        "img": "ryzen_9.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria":2,
+        "Categoria": "Motherboards",
+        "nombre": "B550",
+        "marca": "Aorus",
+        "modelo": "AM4",
+        "precio": 34000,
+        "stock": 21,
+        "img": "mother_am4_aorus.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria":2,
+        "Categoria": "Motherboards",
+        "nombre": "Rog Strix",
+        "marca": "Asus",
+        "modelo": "B350",
+        "precio": 13000,
+        "stock": 25,
+        "img": "mother_am4_asus.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria":2,
+        "Categoria": "Motherboards",
+        "nombre": "B550 Carbon",
+        "marca": "MSI",
+        "modelo": "B550",
+        "precio": 85000,
+        "stock": 30,
+        "img": "mother_am4_msi.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria":2,
+        "Categoria": "Motherboards",
+        "nombre": "B550",
+        "marca": "Aorus",
+        "modelo": "Intel",
+        "precio": 120000,
+        "stock": 20,
+        "img": "mother_intel_aorus.jpg"
+    },
+    {
+        "id": 13,
+        "idCategoria":2,
+        "Categoria": "Motherboards",
+        "nombre": "H670-plus",
+        "marca": "Asus",
+        "modelo": "Intel",
+        "precio": 120000,
+        "stock": 20,
+        "img": "mother_intel_asus.jpg"
+    },
+    {
+        "id": 14,
+        "idCategoria":2,
+        "Categoria": "Motherboards",
+        "nombre": "Meg 2790",
+        "marca": "MSI",
+        "modelo": "Intel",
+        "precio": 120000,
+        "stock": 20,
+        "img": "mother_intel_msi.jpg"
+    },
+    {
+        "id": 15,
+        "idCategoria":3,
+        "Categoria": "Memorias",
+        "nombre": "Fury",
+        "marca": "Kingston",
+        "modelo": "8gb",
+        "precio": 120000,
+        "stock": 20,
+        "img": "ram_kingston_8gb.jpg"
+    },
+    {
+        "id": 16,
+        "idCategoria":3,
+        "Categoria": "Memorias",
+        "nombre": "Vengeance",
+        "marca": "Corsair",
+        "modelo": "8gb",
+        "precio": 12000,
+        "stock": 20,
+        "img": "ram_corsair_8gb.jpg"
+    },
+    {
+        "id": 17,
+        "idCategoria":4,
+        "Categoria": "Discos",
+        "nombre": "SSD",
+        "marca": "Kingston",
+        "modelo": "500gb",
+        "precio": 20000,
+        "stock": 20,
+        "img": "ssd_kingston_500gb.jpg"
+    },
+    {
+        "id": 18,
+        "idCategoria":4,
+        "Categoria": "Discos",
+        "nombre": "SSD",
+        "marca": "Western Digital",
+        "modelo": "500gb",
+        "precio": 18000,
+        "stock": 20,
+        "img": "ssd_wd_500gb.jpg"
+    }
+
+]
